@@ -91,8 +91,8 @@ analytics:
 # Site Author
 author:
   name             : "Valery Perminov"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  avatar           : "/assets/images/avatar.jpg"
+  bio              : "A programmer is just a tool which converts caffeine into code."
   location         : "Canada, Ontario"
   email            :
   uri              :
@@ -103,11 +103,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "vperminov93"
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "https://github.com/vperminov93"
+  instagram        :
   lastfm           :
   linkedin         : "valery-perminov"
   pinterest        :
