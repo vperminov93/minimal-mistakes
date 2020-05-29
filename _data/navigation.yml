@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "LeetCode Solutions"
-    url: /posts/leetcode-solutions
+    url: /leetcode-solutions/
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -12,3 +12,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+leetcode-solutions:
+  title: "Leetcode Solutions"
+  children:
+    - title: "Problem 1248"
+      url: /problem-1248/
